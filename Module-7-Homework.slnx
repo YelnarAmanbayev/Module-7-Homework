@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="Command/Command.csproj" />
+  <Project Path="Mediator/Mediator.csproj" />
+  <Project Path="Template/Template.csproj" />
 </Solution>
